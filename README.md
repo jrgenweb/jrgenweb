@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm jrgenweb</h1>
 <h3 align="center">A passionate frontend developer from Hungary</h3>
-- 🔭 I’m currently working on **static websites** for learning
+- 🔭 I’m currently working on **static websites** for learning 
 - 🌱 I’m currently learning **WebDevelopment**
 
 - 👨‍💻 All of my projects are available at [https://jrgenweb.github.io/](https://jrgenweb.github.io/)
