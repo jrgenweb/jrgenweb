@@ -20,8 +20,12 @@ Frontend Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/jrgenweb"><img src="https://github-readme-stats.vercel.app/api?username=jrgenweb&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=14532d&hide_border=true&show_icons=true" alt="jrgenweb's GitHub stats" /></a>
+<a href="http://www.github.com/jrgenweb"><img src="https://github-readme-stats.vercel.app/api?username=jrgenweb&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=134e4a&hide_border=true&show_icons=true" alt="jrgenweb's GitHub stats" /></a>
 
-<a href="http://www.github.com/jrgenweb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jrgenweb&stroke=ffffff&background=14532d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/jrgenweb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jrgenweb&stroke=ffffff&background=134e4a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/jrgenweb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrgenweb&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=14532d&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/jrgenweb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrgenweb&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/jrgenweb/frontend-quiz-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jrgenweb&repo=frontend-quiz-app&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=134e4a&hide_border=true&locale=en" /></a><a href="https://github.com/jrgenweb/hangman-game" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jrgenweb&repo=hangman-game&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=134e4a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
